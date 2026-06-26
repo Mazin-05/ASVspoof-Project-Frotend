@@ -41,7 +41,7 @@ export default function Auth() {
           <div style={{ backgroundColor: '#1e1b4b', padding: '1rem', borderRadius: '9999px', color: '#6366f1', marginBottom: '1rem' }}>
             <Shield size={40} />
           </div>
-          <h2 style={{ fontSize: '1.875rem', fontWeight: '700', color: '#ffffff', textAlign: 'center' }}>ASVspoof 2021 Dashboard</h2>
+          <h2 style={{ fontSize: '1.875rem', fontWeight: '700', color: '#ffffff', textAlign: 'center' }}>SecVoice</h2>
           <p style={{ color: '#94a3b8', fontSize: '0.875rem', marginTop: '0.25rem' }}>Transformer-Driven Deepfake Voice Analyzer</p>
         </div>
 

@@ -14,7 +14,7 @@ export default function Navbar({ user, currentView, setCurrentView }) {
     <nav style={{ backgroundColor: '#1e293b', borderBottom: '1px solid #334155', padding: '1rem 2rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
       <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
         <div style={{ color: '#6366f1' }}><AudioLines size={28} /></div>
-        <span style={{ fontSize: '1.25rem', fontWeight: '700' }}>Audio Forensics</span>
+        <span style={{ fontSize: '1.25rem', fontWeight: '700' }}>SecVoice</span>
       </div>
       
       <div style={{ display: 'flex', gap: '0.5rem', marginLeft: '2rem' }}>
