@@ -12,7 +12,7 @@ const MODEL_REGISTRY = {
   },
   asv5: {
     name: "ASVspoof v5 (New Weights)",
-    url: "https://FIXME_PASTE_YOUR_NEW_API_HERE/predict", // Just replace this string when ready!
+    url: "https://mozmo-asvspoof-api.hf.space/predict_2025", // Just replace this string when ready!
     description: "Enhanced Neural Footprint Discrimination Engine"
   }
 };
